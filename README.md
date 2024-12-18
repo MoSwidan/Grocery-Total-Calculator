@@ -9,15 +9,13 @@ A simple Dart program to calculate the total cost of grocery items, including ta
 - Loops through the list of grocery items to compute the total cost before and after tax.
 - Prints the total price before and after taxes.
 
-## Usage
-
 ### Requirements
 
 - [Dart SDK](https://dart.dev/get-dart) installed on your system.
 
 ### Running the Program
 
-1. Clone the repository or copy the `main.dart` file to your local system.
+1. Clone the repository or copy the `GroceryCalculator.dart` file to your local system.
 2. Navigate to the project directory in your terminal.
 3. Run the program using the following command:
    ```bash
