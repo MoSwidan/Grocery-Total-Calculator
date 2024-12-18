@@ -22,3 +22,4 @@ A simple Dart program to calculate the total cost of grocery items, including ta
 3. Run the program using the following command:
    ```bash
    dart run main.dart
+![Grocery Total Calculator](https://github.com/user-attachments/assets/4eda91e9-8ce6-4b5c-a1d2-2996a6b2ed10)
